@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts/Sarabun-Medium.woff2) format('woff2'),
+        url(/fonts/Sarabun-Medium.ttf) format('truetype'),
+
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/Sarabun-Regular.woff2) format('woff2'),
+        url(/fonts/Sarabun-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts/Sarabun-Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-display: swap;
+    font-style: italic;
+    src: url(/fonts/Rubik-Italic-VariableFont_wght.ttf) format('truetype'),
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-display: swap;
+    font-style: normal;
+    src: url(/fonts/Rubik-VariableFont_wght.ttf) format('truetype'),
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-display: swap;
+    font-style: normal;
+    src: url(/fonts/Montserrat-VariableFont_wght) format('truetype'),
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-display: swap;
+    font-style: italic;
+    src: url(/fonts/Montserrat-Italic-VariableFont_wght) format('truetype'),
+}
